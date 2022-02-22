@@ -25,12 +25,22 @@ layout: default
 
 ## Projects
 
-- **NUAA Undergraduate Innovation Project** (2018.03-2018.12, main contributor)
+- **NUAA Undergraduate Innovation Project** (2018.03-2018.12, main contributor, accomplished)
   - Blockchain based voting system
   - Implementing a PoW blockchain prototype to record voting logs and make statistics
-- **Graduation Project for Undergraduate** (2020.01-now, host)
-  - A small platform for Byzantine-robust federated learning and poisoning attacks
-  - Integrating mainstream federated learning baselines ([FedAvg](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), [Multi-Krum](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf), [Zeno](http://proceedings.mlr.press/v97/xie19b/xie19b.pdf), [FLTrust](https://arxiv.org/pdf/2012.13995.pdf), and several ongoing projects) and representative poisoning attacks ()
+- **Self-funding Project** (2020.01-now, host, ongoing)
+  - A small experimental platform for Byzantine-robust federated learning and poisoning attacks
+  - Integrating mainstream federated learning baselines ([FedAvg](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), [Multi-Krum](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf), [Zeno](http://proceedings.mlr.press/v97/xie19b/xie19b.pdf), [FLTrust](https://arxiv.org/pdf/2012.13995.pdf), [FedGen](http://proceedings.mlr.press/v139/zhu21b/zhu21b.pdf), etc., and several ongoing projects) and representative poisoning attacks ([Back-gradient](https://arxiv.org/pdf/1708.08689.pdf), [Adaptive attack](https://www.usenix.org/system/files/sec20summer_fang_prepub.pdf), [Badnets](https://arxiv.org/pdf/1708.06733.pdf?ref=https://githubhelp.com), [Backdoor FL](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf), etc.)
+  - Yields two papers.
+- **Outsourcing R&D task, Institute of Semiconductors, CAS** (2019.12-2020.03, host)
+  - Android development
+  - Implementing navigation and route planning algorithm
+
+## Awards
+
+- NUAA Top-tier Academic Scholarship 2020, 2021
+- NUAA Special Scholarship for Fresh Graduate Student
+- NUAA Outstanding Individual of Research&Innovation 2020
 
 ## Education Background
 
