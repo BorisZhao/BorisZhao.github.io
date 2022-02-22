@@ -4,7 +4,7 @@ layout: default
 
 > ***Abstract:*** Bo Zhao received his Bachelor's Degree of Information Security from Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and he is currently pursuing his Master's Degree of Cyberspace Security from NUAA. His current research interests are mainly focused on [federated learning](https://en.wikipedia.org/wiki/Federated_learning) and its robustness.
 
-## Theses of Research
+## Research Interests
 
 - 2018.03-2019.12
   - Blockchain and its application
@@ -16,7 +16,7 @@ layout: default
 
 ## Publications & Archives
 
-('*' marks the corresponding author, *Italics* marks the supervisor)
+(* marks the corresponding author, *Italics* marks the supervisor)
 
 1. **Bo Zhao**, Peng Sun<sup>*</sup>, Tao Wang and Keyu Jiang. FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates. Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. **(AAAI Main Track, oral presentation with 5% accept rate)**
 2. **Bo Zhao**, *Liming Fang*<sup>*</sup>, Hanyi Zhang, Chunpeng Ge, Weizhi Meng, Liang Liu and Chunhua Su. Y-DWMS: A digital watermark management system based on smart contracts. Sensors. 2019. **(SCI, IF=3.576)** [[PDF](https://www.mdpi.com/1424-8220/19/14/3091)]
