@@ -44,7 +44,7 @@ layout: default
 
 ## Education Background
 
-<table>
+<table border="0">
 <tr>
     <td>
         <img src="./Images/NUAA.png" width=100px />
