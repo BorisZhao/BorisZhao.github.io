@@ -53,14 +53,20 @@ layout: default
         <ul>
             <li>2016-2020</li>
             <li>Nanjing University of Aeronautics and Astronautics</li>
-            <li>Bachelor's Degree of Information Security</li>
+            <li>Received Bachelor's Degree of Information Security</li>
+        </ul>
+    </td> 
+</tr>    
+<tr>
+    <td>
+        <img src="./Images/NUAA.png" width=100px />
+    </td>
+    <td>
+        <ul>
+            <li>2020-</li>
+            <li>Nanjing University of Aeronautics and Astronautics</li>
+            <li>Pursuing Master's Degree of Cyberspace Security</li>
         </ul>
     </td> 
 </tr>    
 </table>
-
-2020-
-
-- Nanjing University of Aeronautics and Astronautics
-- Pursuing Master's Degree of Cyberspace Security
-
