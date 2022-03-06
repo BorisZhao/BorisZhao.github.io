@@ -46,9 +46,6 @@ layout: default
 
 <table border="0">
 <tr>
-    <td align="center" valign="top">
-        <img src="./Images/NUAA.png" width=100px />
-    </td>
     <td>
         <ul>
             <li>2016-2020</li>
@@ -56,11 +53,11 @@ layout: default
             <li>Received Bachelor's Degree of Information Security</li>
         </ul>
     </td> 
-</tr>    
-<tr>
     <td align="center" valign="top">
         <img src="./Images/NUAA.png" width=100px />
     </td>
+</tr>    
+<tr>
     <td>
         <ul>
             <li>2020-</li>
@@ -68,5 +65,8 @@ layout: default
             <li>Pursuing Master's Degree of Cyberspace Security</li>
         </ul>
     </td> 
+    <td align="center" valign="top">
+        <img src="./Images/NUAA.png" width=100px />
+    </td>
 </tr>    
 </table>
