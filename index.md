@@ -44,10 +44,17 @@ layout: default
 
 ## Education Background
 
-- 2016-2020
-  - Nanjing University of Aeronautics and Astronautics
-  - Bachelor's Degree of Information Security
-- 2020-
-  - Nanjing University of Aeronautics and Astronautics
-  - Pursuing Master's Degree of Cyberspace Security
+<table>
+<tr>
+<td>2016-2020</td> <td><img src="./Image/NUAA.png"/></td>
+</tr>    
+</table>
+
+- Nanjing University of Aeronautics and Astronautics
+- Bachelor's Degree of Information Security
+
+2020-
+
+- Nanjing University of Aeronautics and Astronautics
+- Pursuing Master's Degree of Cyberspace Security
 
