@@ -46,12 +46,18 @@ layout: default
 
 <table>
 <tr>
-<td>2016-2020</td> <td><img src="./Image/NUAA.png"/></td>
+    <td>
+        <img src="./Images/NUAA.png"/ width=100px>
+    </td>
+    <td width=80%>
+        <ul>
+            <li>2016-2020</li>
+            <li>Nanjing University of Aeronautics and Astronautics</li>
+            <li>Bachelor's Degree of Information Security</li>
+        </ul>
+    </td> 
 </tr>    
 </table>
-
-- Nanjing University of Aeronautics and Astronautics
-- Bachelor's Degree of Information Security
 
 2020-
 
