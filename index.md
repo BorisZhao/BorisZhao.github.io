@@ -46,7 +46,7 @@ layout: default
 
 <table border="0">
 <tr>
-    <td>
+    <td align="center" valign="top">
         <img src="./Images/NUAA.png" width=100px />
     </td>
     <td>
@@ -58,7 +58,7 @@ layout: default
     </td> 
 </tr>    
 <tr>
-    <td>
+    <td align="center" valign="top">
         <img src="./Images/NUAA.png" width=100px />
     </td>
     <td>
