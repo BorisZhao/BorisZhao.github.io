@@ -53,7 +53,7 @@ layout: default
             <li>Received Bachelor's Degree of Information Security</li>
         </ul>
     </td> 
-    <td align="center" valign="top">
+    <td align="center" valign="center">
         <img src="./Images/NUAA.png" width=100px />
     </td>
 </tr>    
@@ -65,7 +65,7 @@ layout: default
             <li>Pursuing Master's Degree of Cyberspace Security</li>
         </ul>
     </td> 
-    <td align="center" valign="top">
+    <td align="center" valign="center">
         <img src="./Images/NUAA.png" width=100px />
     </td>
 </tr>    
