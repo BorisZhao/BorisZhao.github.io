@@ -49,7 +49,7 @@ layout: default
     <td>
         <img src="./Images/NUAA.png" width=100px />
     </td>
-    <td width=80%>
+    <td>
         <ul>
             <li>2016-2020</li>
             <li>Nanjing University of Aeronautics and Astronautics</li>
