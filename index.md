@@ -47,8 +47,8 @@ layout: default
 <table border="0">
 <tr>
     <td align="left" valign="center" width="85%">
+        <p>2016-2020</p>
         <ul>
-            <li>2016-2020</li>
             <li>Nanjing University of Aeronautics and Astronautics</li>
             <li>Received Bachelor's Degree of Information Security</li>
         </ul>
@@ -59,8 +59,8 @@ layout: default
 </tr>    
 <tr>
     <td align="left" valign="center" width="85%">
+        <p>2020-</p>
         <ul>
-            <li>2020-</li>
             <li>Nanjing University of Aeronautics and Astronautics</li>
             <li>Pursuing Master's Degree of Cyberspace Security</li>
         </ul>
