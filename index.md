@@ -46,7 +46,7 @@ layout: default
 
 <table border="0">
 <tr>
-    <td align="left" valign="center" width="85%">
+    <td align="left" valign="center" width="80%">
         <p><b>2016-2020</b></p>
         <p>Nanjing University of Aeronautics and Astronautics</p>
         <p>Received Bachelor's Degree of Information Security</p>
@@ -56,7 +56,7 @@ layout: default
     </td>
 </tr>    
 <tr>
-    <td align="left" valign="center" width="85%">
+    <td align="left" valign="center" width="80%">
         <p><b>2020-</b></p>
         <p>Nanjing University of Aeronautics and Astronautics</p>
         <p>Pursuing Master's Degree of Cyberspace Security</p>
