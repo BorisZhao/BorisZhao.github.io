@@ -47,7 +47,7 @@ layout: default
 <table>
 <tr>
     <td>
-        <img src="./Images/NUAA.png"/ width=100px>
+        <img src="./Images/NUAA.png" width=100px />
     </td>
     <td width=80%>
         <ul>
