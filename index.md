@@ -47,11 +47,9 @@ layout: default
 <table border="0">
 <tr>
     <td align="left" valign="center" width="85%">
-        <p>2016-2020</p>
-        <ul>
-            <li>Nanjing University of Aeronautics and Astronautics</li>
-            <li>Received Bachelor's Degree of Information Security</li>
-        </ul>
+        <p><b>2016-2020</b></p>
+        <p>Nanjing University of Aeronautics and Astronautics</p>
+        <p>Received Bachelor's Degree of Information Security</p>
     </td> 
     <td align="center" valign="center">
         <img src="./Images/NUAA.png" width=100px />
@@ -59,11 +57,9 @@ layout: default
 </tr>    
 <tr>
     <td align="left" valign="center" width="85%">
-        <p>2020-</p>
-        <ul>
-            <li>Nanjing University of Aeronautics and Astronautics</li>
-            <li>Pursuing Master's Degree of Cyberspace Security</li>
-        </ul>
+        <p><b>2020-</b></p>
+        <p>Nanjing University of Aeronautics and Astronautics</p>
+        <p>Pursuing Master's Degree of Cyberspace Security</p>
     </td> 
     <td align="center" valign="center">
         <img src="./Images/NUAA.png" width=100px />
