@@ -40,7 +40,7 @@ layout: default
 
 - NUAA Top-tier Academic Scholarship 2020, 2021
 - NUAA Special Scholarship for Fresh Graduate Student
-- NUAA Outstanding Individual of Research&Innovation 2020
+- NUAA Outstanding Individual of Research & Innovation 2020
 
 ## Education Background
 
