@@ -46,7 +46,7 @@ layout: default
 
 <table border="0">
 <tr>
-    <td align="left" valign="center">
+    <td align="left" valign="center" width="75%">
         <ul>
             <li>2016-2020</li>
             <li>Nanjing University of Aeronautics and Astronautics</li>
@@ -58,7 +58,7 @@ layout: default
     </td>
 </tr>    
 <tr>
-    <td align="left" valign="center">
+    <td align="left" valign="center" width="75%">
         <ul>
             <li>2020-</li>
             <li>Nanjing University of Aeronautics and Astronautics</li>
