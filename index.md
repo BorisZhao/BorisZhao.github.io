@@ -66,3 +66,5 @@ layout: default
     </td>
 </tr>    
 </table>
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5zcxch5kd6c&amp;s=220&amp;m=0&amp;v=false&amp;r=false&amp;b=ffffff&amp;n=false&amp;c=ff0000" async="async"></script>
