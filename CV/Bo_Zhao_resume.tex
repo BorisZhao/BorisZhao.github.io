@@ -1,0 +1,204 @@
+%-------------------------
+% Resume in Latex
+% Author : Sourabh Bajaj
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+% Just in case someone needs a heading that does not need to be in a list
+\newcommand{\resumeHeading}[4]{
+    \begin{tabular*}{0.99\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://boriszhao.github.io/}{\Large Bo Zhao}} & Email : \href{mailto:bozhao@nuaa.edu.cn}{bozhao@nuaa.edu.cn}\\
+  \href{https://boriszhao.github.io/}{https://boriszhao.github.io/} & Mobile : +86-186-5293-3335 \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Nanjing University of Aeronautics and Astronautics}{Nanjing, China}
+      {Master of Engineering in Information Security;  GPA: 82\%}{Sept. 2016 -- Jun. 2020}
+    \resumeSubheading
+      {Nanjing University of Aeronautics and Astronautics}{Nanjing, China}
+      {Pursuing Bachelor of Engineering in Cyberspace Security}{Sept. 2020 -- }
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Research Interests}
+  \resumeSubHeadingListStart
+        \resumeSubItem{Blockchain System}\hfill{2018.03 -- 2019.12}
+          {
+          \begin{itemize}
+            \item Blockchain and its application
+            \item Game theory based smart contract design
+            \item Computational intensive contract
+            \item Blockchain based trustworthy distributed machine learning
+          \end{itemize}
+          }
+        \resumeSubItem{Artificial Intelligence}\hfill{2020.03 -- }
+          {
+          \begin{itemize}
+            \item Byzantine-robust federated learning \textbf{(ongoing)}
+          \end{itemize}
+          }
+
+% --------Multiple Positions Heading------------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+    
+
+  \resumeSubHeadingListEnd
+  
+\section{Publications \& Archives}
+\resumeSubHeadingListStart
+    \resumeSubItem{Conferences}{
+        \begin{itemize}
+          \item (\textcolor[rgb]{1.00,0.00,0.00}{AAAI-22}) \textbf{Bo Zhao}, Peng Sun*, Tao Wang and Keyu Jiang, ``FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates,'' \emph{in Proceedings of the 36th AAAI Conference on Artificial Intelligence}, 2022. (\textcolor[rgb]{1.00,0.00,0.00}{\underline{Main Track, oral presentation, 5\% accept rate}})
+        \end{itemize}
+    }
+    \resumeSubItem{Journals}{
+        \begin{itemize}
+          \item (\textcolor[rgb]{1.00,0.00,0.00}{IEEE Network}) Liming Fang, \textbf{Bo Zhao}, Yang Li, Zhe Liu*, Chunpeng Ge and Weizhi Meng, ``Countermeasure based on smart contracts and AI against DoS/DDoS attack in 5G circumstances,'' \emph{IEEE Network}, 2020. (\textcolor[rgb]{1.00,0.00,0.00}{\underline{SCI, IF=10.693}})
+          \item (\textcolor[rgb]{1.00,0.00,0.00}{Sensors}) \textbf{Bo Zhao}, Liming Fang*, Hanyi Zhang, Chunpeng Ge, Weizhi Meng, Liang Liu and Chunhua Su, ``Y-DWMS: A digital watermark management system based on smart contracts,'' \emph{Sensors}, 2019. (\textcolor[rgb]{1.00,0.00,0.00}{\underline{SCI, IF=3.576}})
+        \end{itemize}
+    }
+    \resumeSubItem{Archives}{
+        \begin{itemize}
+          \item \textbf{Bo Zhao}, Peng Sun, Liming Fang*, Tao Wang, Keyu Jiang, ``FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning,'' \emph{arXiv}, 2021. (\underline{Rejected by IEEE Symposium on Security and Privacy 2022, under revision})
+        \end{itemize}
+    }
+\resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Self-funding Project}\hfill{2021.01 -- , host, ongoing}
+      {
+        \begin{itemize}
+          \item An experimental platform for Byzantine-robust federated learning and poisoning attacks.
+          \item Integrating mainstream federated learning baselines (FedAvg, Multi-Krum, Zeno, FLTrust, FedGen, several ongoing projects, etc.), and representative poisoning attacks (Back-gradient, Adaptive attack, Badnets, Backdoor FL, etc.).
+        \end{itemize}
+      }
+    \resumeSubItem{National Key R\&D Program of China}\hfill{2021.12 -- 2024.11, participant, ongoing}
+      {
+        \begin{itemize}
+          \item Title: ``AI Security Defence and Evaluation Technology'' (under Grant 2021YFB3100700, RMB \$3,000,000).
+          \item Student leader of federated learning security task force.
+        \end{itemize}
+      }
+    \resumeSubItem{NUAA Undergraduate Innovation Project}\hfill{2017.12 -- 2018.05, principal participant, accomplished}
+    {
+        \begin{itemize}
+          \item Title: ``Blockchain based Voting System''.
+          \item Lead to implement a PoW blockchain prototype to record voting logs and make statistics.
+        \end{itemize}
+    }
+  \resumeSubHeadingListEnd
+
+%
+%--------PROGRAMMING SKILLS------------
+\section{Awards}
+  \resumeSubHeadingListStart
+    \item{
+      NUAA Top-tier Academic Scholarship 2020, 2021; NUAA Special Scholarship for Fresh Graduate Student; NUAA Outstanding Individual of Research \& Innovation 2020;
+    }
+  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}

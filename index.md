@@ -32,9 +32,6 @@ layout: default
 - **NUAA Undergraduate Innovation Project** (2018.03-2018.12, main contributor, accomplished)
   - Blockchain based voting system
   - Implementing a PoW blockchain prototype to record voting logs and make statistics
-- **Outsourcing R&D task, Institute of Semiconductors, CAS** (2019.12-2020.03, host)
-  - Android development
-  - Implementing navigation and route planning algorithm
 
 ## Awards
 
