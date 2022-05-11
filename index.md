@@ -6,7 +6,7 @@ layout: default
 
 ## Research Interests
 
-- 2018.03-2019.12
+- 2017.12-2019.12
   - Blockchain and its application
   - Game theory based smart contract design
   - Computational intensive contract
