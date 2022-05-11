@@ -26,12 +26,14 @@ layout: default
 ## Projects
 
 - **Self-funding Project** (2020.01-now, host, ongoing)
-  - A small experimental platform for Byzantine-robust federated learning and poisoning attacks
-  - Integrating mainstream federated learning baselines ([FedAvg](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), [Multi-Krum](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf), [Zeno](http://proceedings.mlr.press/v97/xie19b/xie19b.pdf), [FLTrust](https://arxiv.org/pdf/2012.13995.pdf), [FedGen](http://proceedings.mlr.press/v139/zhu21b/zhu21b.pdf), etc., and several ongoing projects) and representative poisoning attacks ([Back-gradient](https://arxiv.org/pdf/1708.08689.pdf), [Adaptive attack](https://www.usenix.org/system/files/sec20summer_fang_prepub.pdf), [Badnets](https://arxiv.org/pdf/1708.06733.pdf?ref=https://githubhelp.com), [Backdoor FL](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf), etc.)
-  - Yields two papers.
-- **NUAA Undergraduate Innovation Project** (2018.03-2018.12, main contributor, accomplished)
-  - Blockchain based voting system
-  - Implementing a PoW blockchain prototype to record voting logs and make statistics
+  - A small experimental platform for Byzantine-robust federated learning and poisoning attacks. 
+  - Integrating mainstream federated learning baselines ([FedAvg](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), [Multi-Krum](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf), [Zeno](http://proceedings.mlr.press/v97/xie19b/xie19b.pdf), [FLTrust](https://arxiv.org/pdf/2012.13995.pdf), [FedGen](http://proceedings.mlr.press/v139/zhu21b/zhu21b.pdf), several ongoing projects, etc.), and representative poisoning attacks ([Back-gradient](https://arxiv.org/pdf/1708.08689.pdf), [Adaptive attack](https://www.usenix.org/system/files/sec20summer_fang_prepub.pdf), [Badnets](https://arxiv.org/pdf/1708.06733.pdf?ref=https://githubhelp.com), [Backdoor FL](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf), etc.).
+- **National Key R&D Program of China** (2021.12 -- 2024.11, participant, ongoing)
+  - Title: "AI Security Defence and Evaluation Technology" (under Grant 2021YFB3100700, RMB \$3,000,000).
+  - Student leader of federated learning security task force.
+- **NUAA Undergraduate Innovation Project** (2017.12 -- 2018.05, principal participant, accomplished)
+  - Title: "Blockchain based Voting System".
+  - Lead to implement a PoW blockchain prototype to record voting logs and make statistics.
 
 ## Awards
 
