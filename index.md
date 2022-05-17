@@ -18,7 +18,7 @@ layout: default
 
 (* marks the corresponding author, *Italics* marks the supervisor)
 
-1. **Bo Zhao**, Peng Sun<sup>*</sup>, Tao Wang and Keyu Jiang. FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates. Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. **(AAAI Main Track, oral presentation with 5% accept rate)** [[PDF](https://aaai-2022.virtualchair.net/poster_aaai8088)]
+1. **Bo Zhao**, Peng Sun<sup>*</sup>, Tao Wang and Keyu Jiang. FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates. Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. **(AAAI Main Track, oral presentation with 5% accept rate)** [[Webcite](https://aaai-2022.virtualchair.net/poster_aaai8088)]  [[Presentation](https://www.bilibili.com/video/BV1ZY4y1z74b?share_source=copy_web)]
 2. **Bo Zhao**, *Liming Fang*<sup>*</sup>, Hanyi Zhang, Chunpeng Ge, Weizhi Meng, Liang Liu and Chunhua Su. Y-DWMS: A digital watermark management system based on smart contracts. Sensors. 2019. **(SCI, IF=3.576)** [[PDF](https://www.mdpi.com/1424-8220/19/14/3091)]
 3. *Liming Fang*, **Bo Zhao**, Yang Li, Zhe Liu<sup>*</sup>, Chunpeng Ge and Weizhi Meng. Countermeasure based on smart contracts and AI against DoS/DDoS attack in 5G circumstances. IEEE Network. 2020. **(SCI, IF=10.693)** [[PDF](https://ieeexplore.ieee.org/abstract/document/9277902)]
 4. **Bo Zhao**, Peng Sun, *Liming Fang*<sup>*</sup>, Tao Wang, Keyu Jiang. FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning. arXiv. 2021. **(rejected by IEEE S&P 2022, under revision)** [[PDF](https://arxiv.org/pdf/2104.08020.pdf)]
