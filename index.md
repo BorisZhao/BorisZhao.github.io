@@ -17,7 +17,7 @@ layout: default
 ## News
 
 - [10/2022] I received the National Scholarship from MoE, PRC.
-- [10/2022] Seems like my paper 'FedCom' has been rejected. Further revision is abeyant since the design is obsolete.
+- [10/2022] Seems like my paper 'FedCom' has been rejected again. Further revision is abeyant since the design is obsolete.
 - [07/2022] My paper 'FedCom' has been rejected.
 - [12/2021] My paper 'FedInv' has been accepted by AAAI 2022!
 
