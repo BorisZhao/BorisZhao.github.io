@@ -2,9 +2,9 @@
 layout: default
 ---
 
-> ***Abstract:*** Bo Zhao received his Bachelor's Degree in Information Security from Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and he is currently pursuing his Master's Degree in Cyberspace Security from NUAA. His current research interests are mainly focused on [federated learning](https://en.wikipedia.org/wiki/Federated_learning) and its robustness.
+> ***Abstract:*** Bo Zhao received his Bachelor's Degree in Information Security from Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, he is currently pursuing his Master's Degree in Cyberspace Security from NUAA. His current research interests mainly lie in trustworthy [federated learning](https://en.wikipedia.org/wiki/Federated_learning), especially its robustness and fairness.
 
-## Research Interests
+## Research Experiences
 
 - 2017.12-2019.12
   - Blockchain and its application
@@ -14,14 +14,21 @@ layout: default
   - Blockchain based trustworthy distributed learning (interim)
   - **Byzantine-robust federated learning (ongoing)**
 
+## News
+
+- [10/2022] I received the National Scholarship from MoE, PRC. ^_^
+- [10/2022] Seems like my paper 'FedCom' has been rejected, again and again. Further revision has been abeyant since the design is obsolete. T_T
+- [07/2022] My paper 'FedCom' has been rejected again. :(
+- [12/2021] My paper 'FedInv' has been accepted by AAAI 2022! :D
+
 ## Publications & Archives
 
 (* marks the corresponding author, *Italics* marks the supervisor)
 
-1. **Bo Zhao**, Peng Sun<sup>*</sup>, Tao Wang and Keyu Jiang. FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates. Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. **(AAAI Main Track, oral presentation with 5% accept rate)** [[Webcite](https://aaai-2022.virtualchair.net/poster_aaai8088)]  [[Presentation](https://www.bilibili.com/video/BV1ZY4y1z74b?share_source=copy_web)]
-2. **Bo Zhao**, *Liming Fang*<sup>*</sup>, Hanyi Zhang, Chunpeng Ge, Weizhi Meng, Liang Liu and Chunhua Su. Y-DWMS: A digital watermark management system based on smart contracts. Sensors. 2019. **(SCI, IF=3.576)** [[PDF](https://www.mdpi.com/1424-8220/19/14/3091)]
-3. *Liming Fang*, **Bo Zhao**, Yang Li, Zhe Liu<sup>*</sup>, Chunpeng Ge and Weizhi Meng. Countermeasure based on smart contracts and AI against DoS/DDoS attack in 5G circumstances. IEEE Network. 2020. **(SCI, IF=10.693)** [[PDF](https://ieeexplore.ieee.org/abstract/document/9277902)]
-4. **Bo Zhao**, Peng Sun, *Liming Fang*<sup>*</sup>, Tao Wang, Keyu Jiang. FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning. arXiv. 2021. **(rejected by IEEE S&P 2022, under revision)** [[PDF](https://arxiv.org/pdf/2104.08020.pdf)]
+1. **Bo Zhao**, Peng Sun<sup>*</sup>, et al., FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates. Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. **(AAAI Main Track, oral presentation with 5% accept rate)** [[Webcite](https://aaai-2022.virtualchair.net/poster_aaai8088)]  [[Presentation](https://www.bilibili.com/video/BV1ZY4y1z74b?share_source=copy_web)]
+2. **Bo Zhao**, *Liming Fang*<sup>*</sup>, et al., Y-DWMS: A digital watermark management system based on smart contracts. Sensors. 2019. **(SCI, IF=3.576)** [[PDF](https://www.mdpi.com/1424-8220/19/14/3091)]
+3. *Liming Fang*, **Bo Zhao**, et al., Countermeasure based on smart contracts and AI against DoS/DDoS attack in 5G circumstances. IEEE Network. 2020. **(SCI, IF=10.693)** [[PDF](https://ieeexplore.ieee.org/abstract/document/9277902)]
+4. **Bo Zhao**, Peng Sun, et al., FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning. arXiv. 2021. **(Rejected by IEEE S&P 2022)** [[PDF](https://arxiv.org/pdf/2104.08020.pdf)]
 
 ## Projects
 
@@ -37,9 +44,11 @@ layout: default
 
 ## Awards
 
-- NUAA Top-tier Academic Scholarship 2020, 2021
-- NUAA Special Scholarship for Fresh Graduate Student
-- NUAA Outstanding Individual of Research & Innovation 2020
+- National Scholarship, Ministry of Education, PRC, 2022. **(Top 3%)**
+- First Class Academic Scholarship, NUAA Graduate School, 2020, 2021, 2022. **(Top 30%)**
+- Special Scholarship for Freshmen, NUAA Graduate School, 2020. **(Competitively short-listed by graduate school)**
+- NUAA Outstanding Individual of Research & Innovation, NUAA Graduate School, 2021, 2022.
+- NUAA Merit Graduate Student, NUAA Graduate School, 2022.
 
 ## Education Background
 
@@ -56,7 +65,7 @@ layout: default
 </tr>    
 <tr>
     <td align="left" valign="center" width="80%">
-        <p><b>2020-</b></p>
+        <p><b>2020-2023</b></p>
         <p>Nanjing University of Aeronautics and Astronautics</p>
         <p>Pursuing Master Degree in Cyberspace Security</p>
     </td> 
