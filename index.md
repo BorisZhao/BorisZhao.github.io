@@ -18,7 +18,7 @@ layout: default
 
 - [10/2022] I received the National Scholarship from MoE, PRC.
 - [10/2022] Seems like my paper 'FedCom' has been rejected again. Further revision is abeyant since the design is obsolete.
-- [10/2022] Our paper 'FLForest' has been accepted by ICPADS 2022! Congratulations to my close peer!
+- [09/2022] Our paper 'FLForest' has been accepted by ICPADS 2022! Congratulations to my close peer!
 - [12/2021] My paper 'FedInv' has been accepted by AAAI 2022!
 
 ## Publications & Archives
