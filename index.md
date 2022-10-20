@@ -60,7 +60,7 @@ layout: default
         <p>Received Bachelor Degree in Information Security</p>
     </td> 
     <td align="center" valign="center">
-        <img src="./Images/NUAA.png" width=200px />
+        <img src="./Images/NUAA.png" width=2000px />
     </td>
 </tr>    
 <tr>
