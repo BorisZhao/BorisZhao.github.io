@@ -17,6 +17,7 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
+\usepackage{graphicx}
 \input{glyphtounicode}
 
 \pagestyle{fancy}
@@ -93,7 +94,8 @@
 
 %----------HEADING-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{\href{https://boriszhao.github.io/}{\Large Bo Zhao}} & Email : \href{mailto:bozhao@nuaa.edu.cn}{bozhao@nuaa.edu.cn}\\
+  \textbf{\href{https://boriszhao.github.io/}{\Large Bo Zhao}} & Email : %  \href{mailto:bozhao@nuaa.edu.cn}{bozhao@nuaa.edu.cn}\\
+  $\includegraphics[width=3.2cm]{corres_addr.pdf}$\\
   \href{https://boriszhao.github.io/}{https://boriszhao.github.io/} & Mobile : +86-186-5293-3335 \\
 \end{tabular*}
 
@@ -111,21 +113,18 @@
 
 
 %-----------EXPERIENCE-----------------
-\section{Research Interests}
+\section{Research Experiences}
   \resumeSubHeadingListStart
-        \resumeSubItem{Blockchain System}\hfill{2017.12 -- 2019.12}
+        \resumeSubItem{Blockchain}\hfill{2017.12 -- 2019.12}
           {
           \begin{itemize}
-            \item Blockchain and its application
-            \item Game theory based smart contract design
-            \item Computational intensive contract
-            \item Blockchain based trustworthy distributed machine learning
+            \item Blockchain and its application; Smart contract design and game analysis; Computational intensive contract; Blockchain based trustworthy distributed machine learning.
           \end{itemize}
           }
-        \resumeSubItem{Artificial Intelligence}\hfill{2020.03 -- }
+        \resumeSubItem{Federated Learning}\hfill{2020.03 -- }
           {
           \begin{itemize}
-            \item Byzantine-robust federated learning \textbf{(ongoing)}
+            \item Trustworthy federated learning \textbf{(ongoing)}
           \end{itemize}
           }
 
