@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  20 OCT 2022 13:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  20 OCT 2022 15:50
 entering extended mode
 **./Bo_Zhao_resume.tex
 (Bo_Zhao_resume.tex
@@ -374,7 +374,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 {C:/Users/19397/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./corres_ad
 dr.pdf, page is rotated 90 degrees>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -382,13 +382,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
  (Bo_Zhao_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
 Package rerunfilecheck Info: File `Bo_Zhao_resume.out' has not changed.
 (rerunfilecheck)             Checksum: A7C154C3362A138B6D06EBCA913E3225;244.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 215.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
  ) 
 Here is how much of TeX's memory you used:
  7078 strings out of 492452
@@ -397,13 +397,13 @@ Here is how much of TeX's memory you used:
  11345 multiletter control sequences out of 15000+200000
  9232 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,11n,45p,396b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,11n,45p,391b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.
 pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.
 pfb>
-Output written on Bo_Zhao_resume.pdf (2 pages, 220072 bytes).
+Output written on Bo_Zhao_resume.pdf (2 pages, 220344 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
