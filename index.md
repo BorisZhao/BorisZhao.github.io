@@ -26,11 +26,11 @@ layout: default
 
 (* marks the corresponding author, *Italics* marks the supervisor)
 
-1. **Bo Zhao**, Peng Sun<sup>*</sup>, et al., FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates, AAAI 2022. **(Main Track oral, accept rate=5%)** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20903)] [[Webcite](https://aaai-2022.virtualchair.net/poster_aaai8088)]  [[Presentation](https://www.bilibili.com/video/BV1ZY4y1z74b?share_source=copy_web)]
-2. **Bo Zhao**, Tao Wang, et al., FedCom: Byzantine-Robust Federated Learning Using Data Commitment, IEEE ICC 2023. 
+1. **Bo Zhao**, Peng Sun<sup>*</sup>, et al., FedInv: Byzantine-Robust Federated Learning by Inversing Local Model Updates, AAAI 2022. **(CCF-A, main track oral, accept rate=5%)** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20903)] [[Webcite](https://aaai-2022.virtualchair.net/poster_aaai8088)]  [[Presentation](https://www.bilibili.com/video/BV1ZY4y1z74b?share_source=copy_web)]
+2. **Bo Zhao**, Tao Wang, et al., FedCom: Byzantine-Robust Federated Learning Using Data Commitment, IEEE ICC 2023. **(CCF-C)**
 3. **Bo Zhao**, *Liming Fang*<sup>*</sup>, et al., Y-DWMS: A digital watermark management system based on smart contracts, Sensors, 2019. **(SCI, IF=3.576)** [[PDF](https://www.mdpi.com/1424-8220/19/14/3091)]
 4. *Liming Fang*, **Bo Zhao**, et al., Countermeasure based on smart contracts and AI against DoS/DDoS attack in 5G circumstances, IEEE Network, 2020. **(SCI, IF=10.693)** [[PDF](https://ieeexplore.ieee.org/abstract/document/9277902)]
-5. Tao Wang, **Bo Zhao**, et al., FLForest: Byzantine-robust Federated Learning through Isolated Forest, ICPADS, 2022.
+5. Tao Wang, **Bo Zhao**, et al., FLForest: Byzantine-robust Federated Learning through Isolated Forest, ICPADS, 2022. **(CCF-C)**
 
 ## Projects
 
