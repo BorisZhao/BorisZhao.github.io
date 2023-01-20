@@ -18,11 +18,11 @@ layout: default
 
 - [1/2023] ‘FedCom’ is accepted by IEEE ICC 2023.
 - [10/2022] I received the National Scholarship from MoE, PRC.
-- [10/2022] Seems like my paper 'FedCom' has been rejected again. Further revision is abeyant since the design is obsolete.
+- [10/2022] Seems like my paper 'FedCom' is rejected again. Further revision is abnegated since the design is obsolete.
 - [09/2022] Our paper 'FLForest' has been accepted by ICPADS 2022! Congratulations to my close peer!
 - [12/2021] My paper 'FedInv' has been accepted by AAAI 2022!
 
-## Publications & Archives
+## Publications
 
 (* marks the corresponding author, *Italics* marks the supervisor)
 
@@ -31,7 +31,6 @@ layout: default
 3. **Bo Zhao**, *Liming Fang*<sup>*</sup>, et al., Y-DWMS: A digital watermark management system based on smart contracts, Sensors, 2019. **(SCI, IF=3.576)** [[PDF](https://www.mdpi.com/1424-8220/19/14/3091)]
 4. *Liming Fang*, **Bo Zhao**, et al., Countermeasure based on smart contracts and AI against DoS/DDoS attack in 5G circumstances, IEEE Network, 2020. **(SCI, IF=10.693)** [[PDF](https://ieeexplore.ieee.org/abstract/document/9277902)]
 5. Tao Wang, **Bo Zhao**, et al., FLForest: Byzantine-robust Federated Learning through Isolated Forest, ICPADS, 2022.
-6. **Bo Zhao**, Peng Sun, et al., FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning, arXiv, 2021. **(Rejected by IEEE S&P 2022)** [[PDF](https://arxiv.org/pdf/2104.08020.pdf)]
 
 ## Projects
 
@@ -39,7 +38,7 @@ layout: default
   - A small experimental platform for Byzantine-robust federated learning and poisoning attacks. 
   - Integrating mainstream federated learning baselines ([FedAvg](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), [Multi-Krum](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf), [Zeno](http://proceedings.mlr.press/v97/xie19b/xie19b.pdf), [FLTrust](https://arxiv.org/pdf/2012.13995.pdf), [FedGen](http://proceedings.mlr.press/v139/zhu21b/zhu21b.pdf), several ongoing projects, etc.), and representative poisoning attacks ([Back-gradient](https://arxiv.org/pdf/1708.08689.pdf), [Adaptive attack](https://www.usenix.org/system/files/sec20summer_fang_prepub.pdf), [Badnets](https://arxiv.org/pdf/1708.06733.pdf?ref=https://githubhelp.com), [Backdoor FL](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf), etc.).
 - **National Key R&D Program of China** (2021.12 -- 2024.11, participant, ongoing)
-  - Title: "AI Security Defence and Evaluation Technology" (under Grant 2021YFB3100700, RMB \$3,000,000).
+  - Title: "AI Security Defense and Evaluation Technology" (under Grant 2021YFB3100700, RMB \$3,000,000).
   - Student leader of federated learning security task force.
 - **NUAA Undergraduate Innovation Project** (2017.12 -- 2018.05, principal participant, accomplished)
   - Title: "Blockchain based Voting System".
@@ -49,7 +48,7 @@ layout: default
 
 - National Scholarship, Ministry of Education, PRC, 2022. **(Top 3%)**
 - First Class Academic Scholarship, NUAA Graduate School, 2020, 2021, 2022. **(Top 30%)**
-- Special Scholarship for Freshmen, NUAA Graduate School, 2020. **(Competitively short-listed by graduate school)**
+- Special Scholarship for Freshmen, NUAA Graduate School, 2020. **(A competitive short list)**
 - NUAA Outstanding Individual of Research & Innovation, NUAA Graduate School, 2021, 2022.
 - NUAA Merit Graduate Student, NUAA Graduate School, 2022.
 
