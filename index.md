@@ -49,8 +49,9 @@ layout: default
 - National Scholarship, Ministry of Education, PRC, 2022. **(Top 3%)**
 - First Class Academic Scholarship, NUAA Graduate School, 2020, 2021, 2022. **(Top 30%)**
 - Special Scholarship for Freshmen, NUAA Graduate School, 2020. **(A competitive short list)**
+- NUAA Outstanding Graduate, NUAA Graduate School, 2023.
 - NUAA Outstanding Individual of Research & Innovation, NUAA Graduate School, 2021, 2022.
-- NUAA Merit Graduate Student, NUAA Graduate School, 2022.
+- NUAA Merit Student, NUAA Graduate School, 2022.
 
 ## Education Background
 
