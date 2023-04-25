@@ -2,17 +2,14 @@
 layout: default
 ---
 
-> ***Abstract:*** Bo Zhao received his Bachelor degree of Information Security from Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, he is currently pursuing his Master degree of Cyberspace Security from NUAA. His current research interests mainly lie in trustworthy [federated learning](https://en.wikipedia.org/wiki/Federated_learning), especially its robustness and fairness.
+> ***Abstract:*** Bo Zhao respectively received his bachelor's degree in Information Security from Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and his master's degree in Cyberspace Security from NUAA in 2023. His current research interests are mainly focused on the field of trustworthy [federated learning](https://en.wikipedia.org/wiki/Federated_learning), especially its robustness and fairness.
 
 ## Research Experiences
 
-- 2017.12-2019.12
-  - Blockchain and its application
-  - Game theory based smart contract design
-  - Computational intensive contract
-- 2020.01-
-  - Blockchain based trustworthy distributed learning (interim)
-  - **Byzantine-robust federated learning (ongoing)**
+- **Previous**
+  - Blockchain and its application, Game theory based smart contract design, Computational intensive contract, Blockchain based trustworthy distributed learning;
+- **Ongoing**
+  - Byzantine-robust federated learning.
 
 ## News
 
@@ -43,6 +40,11 @@ layout: default
 - **NUAA Undergraduate Innovation Project** (2017.12 -- 2018.05, principal participant, accomplished)
   - Title: "Blockchain based Voting System".
   - Lead to implement a PoW blockchain prototype to record voting logs and make statistics.
+
+## Academical Services
+
+- **PC Member**
+  - FL-IJCAI'23
 
 ## Awards
 
