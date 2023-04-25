@@ -9,7 +9,7 @@ layout: default
 - **Previous**
   - Blockchain and its application, Game theory based smart contract design, Computational intensive contract, Blockchain based trustworthy distributed learning;
 - **Ongoing**
-  - Byzantine-robust federated learning.
+  - Trustworthy federated learning.
 
 ## News
 
