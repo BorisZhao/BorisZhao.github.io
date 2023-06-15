@@ -88,7 +88,7 @@ layout: default
         <p>Persuing PhD in School of Computer Science and Engineering</p>
     </td> 
     <td align="center" valign="center">
-        <img src="./Images/NTU.png" width=200px />
+        <img src="./Images/NTU.png" width=300px />
     </td>
 </tr>    
 </table>
