@@ -13,7 +13,7 @@ layout: default
 
 ## News
 
-- [06/2023] I was admitted by NTU as an SCSE full-time PhD candidate.
+- [06/2023] I was admitted by NTU SCSE as a full-time PhD candidate.
 - [01/2023] ‘FedCom’ is accepted by IEEE ICC 2023.
 - [10/2022] I received the National Scholarship from MoE, PRC.
 - [10/2022] Seems like my paper 'FedCom' is rejected again. Further revision is abnegated since the design is obsolete.
@@ -88,7 +88,7 @@ layout: default
         <p>Persuing PhD in School of Computer Science and Engineering</p>
     </td> 
     <td align="center" valign="center">
-        <img src="./Images/NTU.png" width=100px />
+        <img src="./Images/NTU.png" width=200px />
     </td>
 </tr>    
 </table>
