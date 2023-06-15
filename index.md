@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> ***Abstract:*** Bo Zhao respectively received his bachelor's degree in Information Security from Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and his master's degree in Cyberspace Security from NUAA in 2023. His current research interests are mainly focused on the field of trustworthy [federated learning](https://en.wikipedia.org/wiki/Federated_learning), especially its robustness and fairness.
+> Bo Zhao is now pursuing his PhD in School of Computer Science and Engineering, Nanyang Technological University, Singapore. He respectively received his bachelor's degree in Information Security from Nanjing University of Aeronautics and Astronautics (NUAA) in 2020, and his master's degree in Cyberspace Security from NUAA in 2023. His current research interests are mainly focused on the field of trustworthy [federated learning](https://en.wikipedia.org/wiki/Federated_learning), especially its robustness and fairness.
 
 ## Research Experiences
 
@@ -13,7 +13,8 @@ layout: default
 
 ## News
 
-- [1/2023] ‘FedCom’ is accepted by IEEE ICC 2023.
+- [06/2023] I was admitted by NTU as an SCSE full-time PhD candidate.
+- [01/2023] ‘FedCom’ is accepted by IEEE ICC 2023.
 - [10/2022] I received the National Scholarship from MoE, PRC.
 - [10/2022] Seems like my paper 'FedCom' is rejected again. Further revision is abnegated since the design is obsolete.
 - [09/2022] Our paper 'FLForest' has been accepted by ICPADS 2022! Congratulations to my close peer!
@@ -64,7 +65,7 @@ layout: default
     <td align="left" valign="center" width="80%">
         <p><b>2016-2020</b></p>
         <p>Nanjing University of Aeronautics and Astronautics</p>
-        <p>Received bachelor's degree in Information Security</p>
+        <p>Bachelor's degree in Information Security</p>
     </td> 
     <td align="center" valign="center">
         <img src="./Images/NUAA.png" width=100px />
@@ -74,10 +75,20 @@ layout: default
     <td align="left" valign="center" width="80%">
         <p><b>2020-2023</b></p>
         <p>Nanjing University of Aeronautics and Astronautics</p>
-        <p>Received master's degree in Cyberspace Security</p>
+        <p>Master's degree in Cyberspace Security</p>
     </td> 
     <td align="center" valign="center">
         <img src="./Images/NUAA.png" width=100px />
+    </td>
+</tr>    
+<tr>
+    <td align="left" valign="center" width="80%">
+        <p><b>2023-</b></p>
+        <p>Nanyang Technological University</p>
+        <p>Persuing PhD in School of Computer Science and Engineering</p>
+    </td> 
+    <td align="center" valign="center">
+        <img src="./Images/NTU.png" width=100px />
     </td>
 </tr>    
 </table>
