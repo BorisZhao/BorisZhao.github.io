@@ -62,7 +62,7 @@ layout: default
 
 <table border="0">
 <tr>
-    <td align="left" valign="center" width="80%">
+    <td align="left" valign="center" width="70%">
         <p><b>2016-2020</b></p>
         <p>Nanjing University of Aeronautics and Astronautics</p>
         <p>Bachelor's degree in Information Security</p>
@@ -72,7 +72,7 @@ layout: default
     </td>
 </tr>    
 <tr>
-    <td align="left" valign="center" width="80%">
+    <td align="left" valign="center" width="70%">
         <p><b>2020-2023</b></p>
         <p>Nanjing University of Aeronautics and Astronautics</p>
         <p>Master's degree in Cyberspace Security</p>
@@ -82,7 +82,7 @@ layout: default
     </td>
 </tr>    
 <tr>
-    <td align="left" valign="center" width="80%">
+    <td align="left" valign="center" width="70%">
         <p><b>2023-</b></p>
         <p>Nanyang Technological University</p>
         <p>Persuing PhD in School of Computer Science and Engineering</p>
@@ -92,3 +92,4 @@ layout: default
     </td>
 </tr>    
 </table>
+
