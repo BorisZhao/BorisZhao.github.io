@@ -45,7 +45,7 @@ layout: default
 ## Academical Services
 
 - **PC Member**
-  - FL-IJCAI'23, FL-NeurIPS'23
+  - FL-IJCAI'23, FL@FM-NeurIPS'23
 - **Reviewer**
   - TNNLS, CIKM'23
 
