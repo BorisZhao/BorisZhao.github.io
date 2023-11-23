@@ -13,7 +13,7 @@ layout: default
 
 ## News
 
-- [06/2023] I was admitted by NTU SCSE as a full-time PhD candidate.
+- [06/2023] I was admitted by NTU SCSE as a full-time PhD student.
 - [01/2023] ‘FedCom’ is accepted by IEEE ICC 2023.
 - [10/2022] I received the National Scholarship from MoE, PRC.
 - [10/2022] Seems like my paper 'FedCom' is rejected again. Further revision is abnegated since the design is obsolete.
